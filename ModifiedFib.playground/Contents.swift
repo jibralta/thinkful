@@ -1,7 +1,7 @@
 //: Improved Fib
 
 // Thinkful Playground
-// Thinkful.com
+// Thinkful.combbb
 
 // Fibonacci Sequence
 
