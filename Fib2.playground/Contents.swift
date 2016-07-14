@@ -1,4 +1,3 @@
-// Thinkful Playground
 // Thinkful.com
 
 // Fibonacci Sequence
